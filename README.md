@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Web3 developer.
+👋 Hi, I’m a Web3 developer.
 
 <!---
 web3junior/web3junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
